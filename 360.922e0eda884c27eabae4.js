@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproduction_project=self.webpackChunkproduction_project||[]).push([[360],{4360:function(t,c,e){e.r(c),e(7294);var r=e(2327),u=e(1492),n=e(5893);c.default=()=>{const{t:t}=(0,r.$)("about");return(0,n.jsx)(u.T,{children:t("Админ панель")})}}}]);
